@@ -20,7 +20,7 @@ The **Student Management System** is a simple yet effective application built us
 1. **Clone the repository:**  
 
     ```
-    git clone https://github.com/the-adeel/app13-student-management-system-GUI-mysql.git
+    git clone https://github.com/the-adeel/app14-student-management-system-GUI-MySQL
     ```
 
 2. **Navigate to the project directory:**  
